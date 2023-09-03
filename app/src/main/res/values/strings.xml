@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AppCicloVida</string>
+    <string name="cadena1">Hola Mundo!!</string>
+    <string name="cadena2">LifeCycle\n</string>
+</resources>
